@@ -1,0 +1,6 @@
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\bin\Debug\battingaverage.exe.config
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\obj\Debug\battingaverage.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\bin\Debug\battingaverage.exe
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\bin\Debug\battingaverage.pdb
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\obj\Debug\battingaverage.exe
+c:\users\samar\documents\visual studio 2015\Projects\battingaverage\battingaverage\obj\Debug\battingaverage.pdb
